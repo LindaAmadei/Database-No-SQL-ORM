@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1677356-0676-4cfd-a5ef-cc63bc7c0e5d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DIPkoMqi32tGOvQcTPPqga6SQ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.mongoDB.entities" />
+      <recent name="com.mongodb.client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MongoDbApplication">
+    <configuration name="MongoDbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mongoDB.MongoDbApplication" />
+      <module name="mongoDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mongoDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoDbApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongoDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mongoDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mongoDB" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mongoDB.MongoDbApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.mongoDB.config in mongoDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongoDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mongoDB.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mongoDB.config" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.mongoDB.service in mongoDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongoDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mongoDB.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mongoDB.service" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MongoDbApplication" />
+      <item itemvalue="JUnit.com.example.mongoDB.service in mongoDB" />
+      <item itemvalue="JUnit.com.example.mongoDB.config in mongoDB" />
+      <item itemvalue="JUnit.MongoDbApplicationTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MongoDbApplication" />
+        <item itemvalue="JUnit.com.example.mongoDB.service in mongoDB" />
+        <item itemvalue="JUnit.com.example.mongoDB.config in mongoDB" />
+        <item itemvalue="JUnit.MongoDbApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1677356-0676-4cfd-a5ef-cc63bc7c0e5d" name="Changes" comment="" />
+      <created>1660383772989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660383772989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mongoDB$com_example_mongoDB_config_in_mongoDB.ic" NAME="com.example.mongoDB.config in mongoDB Coverage Results" MODIFIED="1660387348397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.mongoDB.config.*</FILTER>
+    </SUITE>
+  </component>
+</project>
